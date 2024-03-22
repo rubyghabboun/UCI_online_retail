@@ -22,6 +22,8 @@ The top-selling products are identified based on quantity sold and revenue gener
 Monthly revenue trends for the top-selling products are visualized to understand sales patterns over time.
 
 ## Next we will dive deeper into our segment 5 analysis using tablaue.
+here is the link for my tablaue story :
+https://public.tableau.com/app/profile/ruby.ghabboun/viz/ucionlineretail/Story1
 
 This dataset has been optained from : https://archive.ics.uci.edu/dataset/352/online+retail
 as a practice dataset and case study.
